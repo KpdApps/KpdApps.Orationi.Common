@@ -1,0 +1,1 @@
+# KpdApps.Orationi.Common
