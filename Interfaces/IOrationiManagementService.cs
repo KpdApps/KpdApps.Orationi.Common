@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KpdApps.Orationi.Common.Interfaces
 {
-	interface IOrationiManagementService
+	public interface IOrationiManagementService
 	{
 	}
 }
