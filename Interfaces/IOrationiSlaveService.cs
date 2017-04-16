@@ -3,7 +3,7 @@ using KpdApps.Orationi.Common.Contracts;
 
 namespace KpdApps.Orationi.Common.Interfaces
 {
-	interface IOrationiSlaveService
+	public interface IOrationiSlaveService
 	{
 		[OperationContract]
 		void Configure(SlaveConfiguration configuration);
